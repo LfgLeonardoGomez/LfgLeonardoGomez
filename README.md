@@ -11,7 +11,7 @@ Python (FastAPI) & Java (Spring Boot) · React + TypeScript
 
 Construyo aplicaciones web y APIs REST pensadas para resolver problemas reales de negocio: sistemas de gestión, plataformas multi-tenant, autenticación y control de acceso por roles, e integraciones con servicios externos. Vengo de 12 años en gastronomía liderando operaciones y equipos, y hoy aplico esa misma cabeza de resolver problemas al desarrollo de software.
 
-Actualmente curso el último semestre de la **Tecnicatura Universitaria en Programación (UTN — Facultad Regional Mendoza)** y busco sumarme a un equipo como **desarrollador junior** para seguir creciendo.
+Tengo aprobadas todas las materias de la Tecnicatura Universitaria en Programación (UTN — Facultad Regional Mendoza) y estoy finalizando la tesis para recibirme. Busco sumarme a un equipo como desarrollador junior para seguir creciendo.
 
 ---
 
